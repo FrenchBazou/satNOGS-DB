@@ -5,7 +5,7 @@
  * based on the Java_wget project
  *
  * v2 : removed directory structure in the destination
- * 
+ * V3 : coming up soon
  */
 package satnogs.db;
 
