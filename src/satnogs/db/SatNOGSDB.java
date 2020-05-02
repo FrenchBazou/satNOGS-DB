@@ -5,7 +5,8 @@
  * based on the Java_wget project
  *
  * v2 : removed directory structure in the destination
- * V3 : coming up soon
+ * V3 :updated build.xml file to build a jar file, including all libraries.
+ * 
  */
 package satnogs.db;
 
