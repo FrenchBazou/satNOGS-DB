@@ -1,6 +1,5 @@
 # satNOGS-DB
-Read and save satNOGS data.
-To run the project from the command line, go to the dist folder and
-type the following:
+Reads and saves satNOGS data in csv format.
 
-java -jar "satNOGS-DB.jar" 
+To run the project from the command line, go to the dist folder and
+type the following : java -jar "satNOGS-DB.jar" 
